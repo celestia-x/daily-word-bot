@@ -1,0 +1,1 @@
+[{"word": "zippering", "number": 1}, {"word": "titillated", "number": 2}, {"word": "babbler", "number": 3}, {"word": "prosperousness", "number": 4}, {"word": "cowry", "number": 5}]
